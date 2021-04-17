@@ -1,6 +1,6 @@
 
 <h1 align='left'>
-  Hi there 👋  I'm   <a href="https://youthful-nightingale-c3dd4c.netlify.app/" target="_blank">
+  Hi there 👋  I'm   <a href="https://arupchandradawn.netlify.app/" target="_blank">
   Arup Dawn</a> 👨‍💻
 </h1>
 <p align='left'>
@@ -26,7 +26,7 @@
 </p>
 
 
-- 🔭  I’m currently working on a Chat App (Imessage Clone App)
+- 🔭  I’m currently working on Netflix clone app.
 - 🌱  I’m currently exploring Frontend Development. 
 - 📫  Follow me over [Instagram](https://www.instagram.com/arupdon)
 <br/>
