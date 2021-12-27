@@ -26,8 +26,8 @@
 </p>
 
 
-- 🔭  I’m currently working on Netflix clone app.
-- 🌱  I’m currently exploring Frontend Development. 
+- 🔭  I’m currently working on Messaging app.
+- 🌱  I’m currently as a Frontend Developer. 
 - 📫  Follow me over [Instagram](https://www.instagram.com/arupdon)
 <br/>
 
