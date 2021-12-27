@@ -27,8 +27,8 @@
 
 
 - 🔭  I’m currently working on Messaging app.
-- 🌱  I’m currently as a Frontend Developer. 
-- 📫  Follow me over [Instagram](https://www.instagram.com/arupdon)
+- 🌱  I’m currently  working as a Frontend Developer. 
+- 📫  Follow me over [LinkedIn](https://www.linkedin.com/in/arupchandradawn), [Twitter](https://twitter.com/arupdon) & [Instagram](https://www.instagram.com/arupdon).
 <br/>
 
 ### Languages and Tools:
